@@ -1,0 +1,38 @@
+USER MANUAL:
+
+Have all classes on the desktop 
+
+CraigsListImages.java
+
+on command line type cd desktop to get to the directory on the desktop 
+
+then type javac CraigsListImages.java
+
+then Java CraigsListImages “image url”  * can be any image url from craigslist exclude  quotes
+
+will pop up the image and allows you to save anywhere on the computer in .jpg or .png
+
+CraigsList.java
+
+javac CraigList.java
+
+then Java CraigsList “url”  * can be any craigslist url 
+
+will display the text without the html codes
+
+Amazon.java
+
+type javac Amazon.java in command line
+
+then Java Amazon “url”  * can be any amazon book url 
+
+will display the text without the html codes 
+
+Google.java
+
+type javac Google.java in command line
+
+then Java Google “url”  * can be any google search url 
+
+will display the links 
+
